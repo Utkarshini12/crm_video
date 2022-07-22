@@ -1,0 +1,15 @@
+.border-b {
+    border-bottom: 5px solid darkblue;
+}
+
+.border-y {
+    border-bottom: 5px solid darkgoldenrod;
+}
+
+.border-g {
+    border-bottom: 5px solid darkolivegreen;
+}
+
+.border-gr {
+    border-bottom: 5px solid darkgrey;
+}
