@@ -173,7 +173,7 @@ function Login() {
                                                     <input type="text" className="form-control" placeholder="Email" id="email" value={userEmail} onChange={updateSignupData} required/>
                                                 </div>    
                                                 <div className="row">
-                                                    <div className="col">
+                                                    <div className="col my-1">
                                                         <span className="mx-1 my-1"> User Type</span>
                                                     </div>
                                                     <div className="col">
